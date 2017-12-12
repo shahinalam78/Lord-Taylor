@@ -1,5 +1,6 @@
-<<<<<<< HEAD
+
 test1 file
+<<<<<<< HEAD
 
 test111f file
 =======
@@ -10,3 +11,8 @@ test1 file
 test11 file
 >>>>>>> jone commit
 >>>>>>> jone commit
+=======
+test1 file
+test11 file
+
+>>>>>>> jone try to conflig
