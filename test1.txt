@@ -1,3 +1,12 @@
+<<<<<<< HEAD
 test1 file
 
 test111f file
+=======
+<<<<<<< HEAD
+test1 file
+=======
+test1 file
+test11 file
+>>>>>>> jone commit
+>>>>>>> jone commit
